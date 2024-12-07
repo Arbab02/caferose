@@ -3,7 +3,7 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
-    flowbite.content(),
+    // flowbite.content(),
  // For React
   ],
   theme: {
@@ -14,6 +14,6 @@ module.exports = {
     },
   },
   plugins: [
-    flowbite.plugin(),
+    // flowbite.plugin(),
   ],
 };
