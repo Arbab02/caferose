@@ -73,7 +73,7 @@ const Hero = () => {
           transition={{ delay: 0.5, duration: 0.8 }}
         >
           <img
-            className="object-cover object-center rounded spinner dropshadow"
+            className="object-cover object-center rounded dropshadow spinner"
             alt="hero"
             src={Cup}
             width='420'
