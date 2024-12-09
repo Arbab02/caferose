@@ -54,7 +54,7 @@ const Hero = () => {
             {/* <br className="hidden lg:inline-block" /> */}
                Cafe<span className='text-[#A5582B]  font-bold'>Rose!</span>
           </motion.h1>
-          <motion.p className="mb-8 leading-relaxed text-xl text-center md:text-justify text-white" variants={childVariants}>
+          <motion.p className="mb-8 leading-relaxed text-2xl text-center md:text-justify text-white" variants={childVariants}>
           Government College of Technology, SITE Karachi, formerly known as Karachi Polytechnic Institute, is a pioneering government technical institute in Pakistan.
          
           <a href='/addTopic'><button className="block mx-auto lg:mx-0  xl:mx-0 md:mx-0 rounded-full text-xl bg-gradient-to-r from-[#A5582B] via-[#A5582B] to-[#A5582B] font-normal mt-4 text-white px-7 py-3 shadow-lg hover:from-purple-600 hover:via-pink-600 hover:to-pink-600 transition duration-300 boxshadow">
